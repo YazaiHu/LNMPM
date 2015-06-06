@@ -1,6 +1,7 @@
 # LNMPM
 On CentOS6.x To Install LNMPM Environment,Include Mysql、PHP、Nginx、Memcache
-#本脚本为部署web服务使用 执行顺序按照脚本末尾001，002。。这样顺序执行 
+
+#This script for the web service to use,you can install it by step to step,such as:
 bash install-src-001.sh 
 bash install-lib-002.sh 
 bash install-mysql-003.sh 
