@@ -1,0 +1,3 @@
+repo放在/etc/yum.repos.d/下 打开repo文件,把你需要的的部分enabled=1
+ 
+RPM* 放入/etc/pki/rpm-gpg/下 执行rpm --import *
